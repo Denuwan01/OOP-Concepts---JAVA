@@ -1,2 +1,1 @@
-# New-
-new app
+new project
